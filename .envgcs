@@ -1,0 +1,2 @@
+MODEL_TARGET=gcs
+BUCKET_NAME=cloud-training-1481
